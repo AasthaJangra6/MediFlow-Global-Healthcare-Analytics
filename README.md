@@ -151,12 +151,11 @@ The project uses multiple healthcare datasets, including:
 - Data Visualization
 
 ---
-
 ## 📸 Dashboard Preview
 
 ### Executive Overview
 
-![Executive Overview](Images/Executive_Overview.png.png)
+![Executive Overview](Images/Executive_Overview_Final.png)
 
 ### Clinical Insights
 
