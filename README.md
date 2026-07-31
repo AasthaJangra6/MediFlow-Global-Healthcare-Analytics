@@ -153,50 +153,19 @@ The project uses multiple healthcare datasets, including:
 ---
 
 ## 📸 Dashboard Preview
-
-> Dashboard screenshots will be added here.
->
-> ## 📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 ### Executive Overview
 
 ![Executive Overview](Images/Executive%20Overview.png)
 
----
-
 ### Clinical Insights
 
 ![Clinical Insights](Images/Clinical%20Insights.png)
 
----
-
 ### Financial & Operational Insights
 
 ![Financial & Operational Insights](Images/Financial%20%26%20Operational%20Insights.png)
-> ## 📸 Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](Images/Executive_Overview.png)
-
----
-
-### Clinical Insights
-
-![Clinical Insights](Images/Clinical_Insights.png)
-
----
-
-### Financial & Operational Insights
-
-![Financial & Operational Insights](Images/Financial_Operational_Insights.png)
-
-- Executive Overview
-- Clinical Insights
-- Financial & Operational Insights
-
----
-
 ## 🚀 Project Outcomes
 
 This dashboard enables healthcare stakeholders to:
