@@ -153,7 +153,6 @@ The project uses multiple healthcare datasets, including:
 ---
 
 ## 📸 Dashboard Preview
-## 📸 Dashboard Preview
 
 ### Executive Overview
 
@@ -166,8 +165,6 @@ The project uses multiple healthcare datasets, including:
 ### Financial & Operational Insights
 
 ![Financial & Operational Insights](Images/Financial_Operational_Insights.png)
----
-
 ## 👩‍💻 Author
 
 **Aastha Jangra**
