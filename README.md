@@ -157,26 +157,15 @@ The project uses multiple healthcare datasets, including:
 
 ### Executive Overview
 
-![Executive Overview](Images/Executive%20Overview.png)
+![Executive Overview](Images/Executive_Overview.png.png)
 
 ### Clinical Insights
 
-![Clinical Insights](Images/Clinical%20Insights.png)
+![Clinical Insights](Images/Clinical_Insights.png)
 
 ### Financial & Operational Insights
 
-![Financial & Operational Insights](Images/Financial%20%26%20Operational%20Insights.png)
-## 🚀 Project Outcomes
-
-This dashboard enables healthcare stakeholders to:
-
-- Monitor hospital performance
-- Identify high-performing hospitals
-- Analyze patient demographics
-- Track financial performance
-- Improve operational decision-making
-- Monitor healthcare KPIs through interactive dashboards
-
+![Financial & Operational Insights](Images/Financial_Operational_Insights.png)
 ---
 
 ## 👩‍💻 Author
