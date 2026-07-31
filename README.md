@@ -155,6 +155,24 @@ The project uses multiple healthcare datasets, including:
 ## 📸 Dashboard Preview
 
 > Dashboard screenshots will be added here.
+>
+> ## 📸 Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Images/Executive_Overview.png)
+
+---
+
+### Clinical Insights
+
+![Clinical Insights](Images/Clinical_Insights.png)
+
+---
+
+### Financial & Operational Insights
+
+![Financial & Operational Insights](Images/Financial_Operational_Insights.png)
 
 - Executive Overview
 - Clinical Insights
